@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Giacomo Biraghi
 
-<!--
-**GiacomoBiraghi/GiacomoBiraghi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Space Engineer & Researcher**  
+I'm a **Space Engineering** master's student at Politecnico di Milano.  
 
-Here are some ideas to get you started:
+🔬 **Current Research & Projects**  
+- **Master’s Thesis**: Investigating **Spectral Submanifolds (SSM)** for reduced-order modeling in **rubble-pile asteroid dynamics**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 **Tech & Tools**  
+- **Programming**: MATLAB, Python, C.  
+- **Programming softwares**: MatLab,  Spyde 6, CodeBlock.
+- **CAD**: SolidWorks, SolidEdge, Inventor, ANSYS CAD.
+- **Simulation & Modeling**: ANSYS (Workbench, Fluent), Femap with NX, MSC Nastran, Modelica, OpenModelica, Dymola, RPA.
+- **Other Skills**: Space mission design, orbital mechanics, and nonlinear dynamics.  
+
+📫 **Get in Touch**  
+- LinkedIn: [GiacomoBiraghi21]  
+- GitHub: [GiacomoBiraghi]  
+- Email: [giacomo@bira.it]  
